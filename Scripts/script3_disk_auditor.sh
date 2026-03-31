@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Havya Kalpeshkumar Thakar
+# Author: Kabir Bhardwaj
 
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
 
