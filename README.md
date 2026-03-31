@@ -1,6 +1,6 @@
 # Open Source Audit – LibreOffice on Fedora 43
 
-**Student Name:** Kabir Bhardwaj
+**Student Name:** Kabir Bhardwaj 
 **Registration Number:** 24BCE11226  
 **Course:** Open Source Software  
 **Chosen Software:** LibreOffice
